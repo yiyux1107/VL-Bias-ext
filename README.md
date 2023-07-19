@@ -11,5 +11,6 @@ Data collection process
 2. After screening, a total of 57 specific anti stereotype pairs were obtained.
 3. Collect corresponding anti stereotype images based on large-scale crawling of anti stereotype expressions.  
 
-VL-Bias-ext Dataset is available at [Google Drive](https://drive.google.com/drive/folders/1zuhEtUuJL1McLTwm0zNH15wmYa1gEm5T)
+VL-Bias-ext Dataset is available at [Google Drive](https://drive.google.com/drive/folders/1zuhEtUuJL1McLTwm0zNH15wmYa1gEm5T)  
+The dataset is constantly being updated
 
