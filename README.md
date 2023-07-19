@@ -9,5 +9,7 @@ for example, according to the target attribute jews and bias attribute 'greedy' 
 Data collection process 
 1. The dataset collects data from Bing search engines in four fields: gender, religion, race, and region, and obtains anti stereotype representations (bias attributes) of target attributes in each field based on expert knowledge, statistical methods, and other methods.
 2. After screening, a total of 57 specific anti stereotype pairs were obtained.
-3. Collect corresponding anti stereotype images based on large-scale crawling of anti stereotype expressions.
+3. Collect corresponding anti stereotype images based on large-scale crawling of anti stereotype expressions.  
+
+VL-Bias-ext Dataset is available at [Google Drive](https://drive.google.com/drive/folders/1zuhEtUuJL1McLTwm0zNH15wmYa1gEm5T)
 
